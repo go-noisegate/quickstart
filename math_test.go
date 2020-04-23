@@ -1,4 +1,4 @@
-package tutorial
+package quickstart
 
 import (
 	"math"
